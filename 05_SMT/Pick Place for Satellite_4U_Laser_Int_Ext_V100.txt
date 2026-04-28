@@ -1,0 +1,203 @@
+Altium Designer Pick and Place Locations
+D:\payload_satellite\hw\SpaceLiin_Satellite_4U_Laser_Internal_External_V1.0.0\01_DESIGN\SpaceLiin_Satellite_4U_Laser_Internal_External_V1.0.0\Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Pick Place for Satellite_4U_Laser_Int_Ext_V100.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       29-04-26
+Time:       02:19
+Revision:   af7f144855f854a7023b0a334644a044558cffe4
+Variant:    No variations
+Units used: mil
+
+Designator Comment        Layer       Footprint             Center-X(mil) Center-Y(mil) Rotation Description                                                             
+J1         0532611171     BottomLayer MOLEX_0532611171      3017.716      935.039       270      ""                                                                      
+TP5        ""             BottomLayer Testpoint_80          2318.898      748.032       90       "Test Point"                                                            
+R6         140R/0.1%      BottomLayer RES_SMD_0603_SHUNT    1676.059      931.604       90       RN73R1JTTD30R0B25                                                       
+R26        1k             BottomLayer RES_C_1608X60         1042.244      522.992       270      RES                                                                     
+R25        1k             BottomLayer RES_C_1608X60         1040.125      919.475       270      RES                                                                     
+C23        0.22uF/25V     BottomLayer CAP_C_1608X80         1815.125      986.600       0        CAP                                                                     
+C6         47uF/20V       BottomLayer CAP_TANT_2312         380.748       417.559       180      TAJC476K020RNJ                                                          
+C24        220pF/50V      BottomLayer CAP_C_1608X80         1497.244      469.488       270      CAP                                                                     
+C20        0.22uF/25V     BottomLayer CAP_C_1608X80         673.787       710.866       180      CAP                                                                     
+U11        TPS7A4533DCQR  BottomLayer SOT223-6              782.374       542.677       0        TPS7A4533DCQR                                                           
+J3         CLP-111-02-X-D BottomLayer SAMTEC_CLP-111-02-X-D 2401.575      590.551       180      "CLP - Samtec 1.27mm Tiger Claw Rugged Reliable Dual Wipe Socket Strip" 
+J2         0532611171     BottomLayer MOLEX_0532611171      2401.575      210.630       180      ""                                                                      
+U12        MCP4902-E/ST   BottomLayer TSSOP14               2991.772      2163.780      270      MCP4902-E/ST                                                            
+TP22       ""             BottomLayer Testpoint_80          2716.535      2090.551      180      "Test Point"                                                            
+TP21       ""             BottomLayer Testpoint_80          2960.630      1964.567      180      "Test Point"                                                            
+TP20       ""             BottomLayer Testpoint_80          2716.535      1976.378      180      "Test Point"                                                            
+R47        4.7k           BottomLayer RES_C_1608X60         2805.000      1893.701      180      RES                                                                     
+R46        4.7k           BottomLayer RES_C_1608X60         2805.000      1960.630      180      RES                                                                     
+R45        4.7k           BottomLayer RES_C_1608X60         2935.000      2350.000      0        RES                                                                     
+FB2        BLM18PG121SN1D BottomLayer IND_C_1608X60         2805.000      2136.311      180      ""                                                                      
+D44        S2303          BottomLayer SOT23-3-132           2550.354      392.874       180      S2303                                                                   
+C60        0.22uF/25V     BottomLayer CAP_C_1608X80         2805.000      2207.704      180      CAP                                                                     
+C59        0.22uF/25V     BottomLayer CAP_C_1608X80         2805.000      2065.901      0        CAP                                                                     
+C58        0.22uF/25V     BottomLayer CAP_C_1608X80         2805.000      2349.507      0        CAP                                                                     
+D41        1N4148W-TP     BottomLayer SOD23                 2532.874      1670.472      180      1N4148W-TP                                                              
+D36        1N4148W-TP     BottomLayer SOD23                 2334.843      2741.338      0        1N4148W-TP                                                              
+D37        1N4148W-TP     BottomLayer SOD23                 2532.874      2536.614      180      1N4148W-TP                                                              
+D43        1N4148W-TP     BottomLayer SOD23                 2532.874      1237.402      180      1N4148W-TP                                                              
+D33        1N4148W-TP     BottomLayer SOD23                 930.866       1338.583      270      1N4148W-TP                                                              
+D13        1N4148W-TP     BottomLayer SOD23                 563.543       2618.110      270      1N4148W-TP                                                              
+D30        1N4148W-TP     BottomLayer SOD23                 1665.512      1338.583      270      1N4148W-TP                                                              
+LD25       LaserDiode     TopLayer    RLD65NZX1             2343.307      1257.087      90       RLD65NZX1                                                               
+LD29       LaserDiode     TopLayer    RLD65NZX1             2343.307      2123.228      90       RLD65NZX1                                                               
+LD28       LaserDiode     TopLayer    RLD65NZX1             2524.409      1894.882      90       RLD65NZX1                                                               
+LD31       LaserDiode     TopLayer    RLD65NZX1             2343.307      2556.299      90       RLD65NZX1                                                               
+LD27       LaserDiode     TopLayer    RLD65NZX1             2343.307      1690.157      90       RLD65NZX1                                                               
+LD26       LaserDiode     TopLayer    RLD65NZX1             2524.409      1461.811      90       RLD65NZX1                                                               
+LD30       LaserDiode     TopLayer    RLD65NZX1             2524.409      2327.953      90       RLD65NZX1                                                               
+LD32       LaserDiode     TopLayer    RLD65NZX1             2524.409      2761.024      90       RLD65NZX1                                                               
+C14        470pF/50V      BottomLayer CAP_C_1608X80         1107.244      522.992       270      CAP                                                                     
+D1         SS54           BottomLayer DO-214AC_SMA          354.291       892.559       0        "DIODE SCHOTTKY"                                                        
+U10        ADG1414BRUZ    BottomLayer TSSOP24               1960.000      1364.000      270      ADG1414BRUZ                                                             
+U9         ADG1414BRUZ    BottomLayer TSSOP24               1960.000      1982.000      270      ADG1414BRUZ                                                             
+U8         ADG1414BRUZ    BottomLayer TSSOP24               1960.000      2600.000      270      ADG1414BRUZ                                                             
+U7         OPA2192        BottomLayer SO8                   1297.244      460.084       0        OPA2192IDR                                                              
+U6         INA139         BottomLayer SOT23-5               1817.247      456.417       180      INA139NA/250                                                            
+U5         OPA2192        BottomLayer SO8                   1295.125      859.474       0        OPA2192IDR                                                              
+U4         INA139         BottomLayer SOT23-5               1815.129      866.597       180      INA139NA/250                                                            
+U3         ADG1414BRUZ    BottomLayer TSSOP24               2953.960      1489.859      270      ADG1414BRUZ                                                             
+U2         MCP4902-E/ST   BottomLayer TSSOP14               2991.772      2673.425      270      MCP4902-E/ST                                                            
+U1         TPS5430DDAR    BottomLayer CONV_TPS5430DDAR      270.591       1096.968      0        "5.5V to 36V Input, 3A, 500kHz Step-Down Converter"                     
+TP19       ""             BottomLayer Testpoint_80          1886.358      241.702       90       "Test Point"                                                            
+TP18       ""             BottomLayer Testpoint_80          1934.134      241.702       90       "Test Point"                                                            
+TP17       ""             BottomLayer Testpoint_80          1870.433      1663.536      90       "Test Point"                                                            
+TP16       ""             BottomLayer Testpoint_80          1870.433      2301.356      90       "Test Point"                                                            
+TP15       ""             BottomLayer Testpoint_80          1838.583      241.702       90       "Test Point"                                                            
+TP14       ""             BottomLayer Testpoint_80          2301.007      2036.732      90       "Test Point"                                                            
+TP13       ""             BottomLayer Testpoint_80          2885.827      1291.339      90       "Test Point"                                                            
+TP11       ""             BottomLayer Testpoint_80          2468.504      468.504       90       "Test Point"                                                            
+TP10       ""             BottomLayer Testpoint_80          2645.669      448.819       90       "Test Point"                                                            
+TP9        ""             BottomLayer Testpoint_80          2712.598      2622.047      180      "Test Point"                                                            
+TP8        ""             BottomLayer Testpoint_80          3129.921      2602.362      180      "Test Point"                                                            
+TP7        ""             BottomLayer Testpoint_80          2712.598      2496.063      180      "Test Point"                                                            
+TP4        ""             BottomLayer Testpoint_80          2468.504      748.032       90       "Test Point"                                                            
+TP3        ""             BottomLayer Testpoint_80          2519.685      748.032       90       "Test Point"                                                            
+TP2        ""             BottomLayer Testpoint_80          2566.929      748.032       90       "Test Point"                                                            
+TP1        ""             BottomLayer Testpoint_80          771.654       102.362       180      "Test Point"                                                            
+R44        4.7k           BottomLayer RES_C_1608X60         1810.000      1165.000      180      RES                                                                     
+R43        4.7k           BottomLayer RES_C_1608X60         1928.504      1165.000      180      RES                                                                     
+R42        4.7k           BottomLayer RES_C_1608X60         1807.933      1791.563      180      RES                                                                     
+R41        4.7k           BottomLayer RES_C_1608X60         1807.933      1730.000      0        RES                                                                     
+R40        4.7k           BottomLayer RES_C_1608X60         2803.150      1295.276      180      RES                                                                     
+R39        4.7k           BottomLayer RES_C_1608X60         1807.933      2415.000      180      RES                                                                     
+R38        4.7k           BottomLayer RES_C_1608X60         1807.933      2355.000      0        RES                                                                     
+R28        1k             BottomLayer RES_C_1608X60         1817.244      331.772       180      RES                                                                     
+R24        34.8R/0.1%     BottomLayer RES_SMD_0603_SHUNT    1678.178      519.488       90       RT0603BRD077R5L                                                         
+R23        10k            BottomLayer RES_C_1608X60         1273.253      607.992       180      RES                                                                     
+R22        140R           BottomLayer RES_C_1608X60         1532.244      377.992       0        RES                                                                     
+R21        51R/1%         BottomLayer RES_SMD_0603_SHUNT    1678.178      391.496       90       RT0603BRD077R5L                                                         
+R20        47k            BottomLayer RES_C_1608X60         1042.244      407.992       270      RES                                                                     
+R19        47k            BottomLayer RES_C_1608X60         1107.736      407.992       90       RES                                                                     
+R18        10k            BottomLayer RES_C_1608X60         1397.244      607.992       180      RES                                                                     
+R17        100k           BottomLayer RES_C_1608X60         1566.749      469.488       270      RES                                                                     
+R16        10k            BottomLayer RES_C_1608X60         1271.134      1009.474      180      RES                                                                     
+R15        140R           BottomLayer RES_C_1608X60         1530.125      774.474       0        RES                                                                     
+R14        47k            BottomLayer RES_C_1608X60         1040.125      799.475       270      RES                                                                     
+R13        4.7k           BottomLayer RES_C_1608X60         2805.000      2423.189      180      RES                                                                     
+R12        4.7k           BottomLayer RES_C_1608X60         2805.000      2495.000      180      RES                                                                     
+R11        1k             BottomLayer RES_C_1608X60         1815.125      746.600       180      RES                                                                     
+R10        47k            BottomLayer RES_C_1608X60         1105.618      799.474       90       RES                                                                     
+R9         10k            BottomLayer RES_C_1608X60         1395.125      1009.474      180      RES                                                                     
+R8         4.7k           BottomLayer RES_C_1608X60         2925.000      2877.874      0        RES                                                                     
+R7         100k           BottomLayer RES_C_1608X60         1564.631      869.475       270      RES                                                                     
+R5         1k             BottomLayer RES_C_1005X40         1164.134      172.835       0        RES                                                                     
+R4         3.24k          BottomLayer RES_C_1005x30_L       161.076       903.090       0        RES                                                                     
+R3         140R/0.1%      BottomLayer RES_SMD_0603_SHUNT    1676.059      803.100       90       RN73R1JTTD30R0B25                                                       
+R2         10k            BottomLayer RES_C_1005x30_L       161.417       850.394       180      RES                                                                     
+R1         1k             BottomLayer RES_C_1005X40         1397.638      173.228       0        RES                                                                     
+Q2         DMG302PU-7     BottomLayer SOT23-3-132           1537.244      592.992       270      DMG302PU-7                                                              
+Q1         DMG302PU-7     BottomLayer SOT23-3-132           1535.125      1004.474      270      DMG302PU-7                                                              
+LD13       LaserDiode     TopLayer    OPV302                780.709       1338.583      0        OPV302                                                                  
+LD7        LaserDiode     TopLayer    OPV302                1148.032      1338.583      0        OPV302                                                                  
+LD19       LaserDiode     TopLayer    OPV302                413.386       1338.583      0        OPV302                                                                  
+LD1        LaserDiode     TopLayer    OPV302                1515.354      1338.583      0        OPV302                                                                  
+LD20       LaserDiode     TopLayer    OPV302                413.386       1594.488      0        OPV302                                                                  
+LD14       LaserDiode     TopLayer    OPV302                780.709       1594.488      0        OPV302                                                                  
+LD8        LaserDiode     TopLayer    OPV302                1148.032      1594.488      0        OPV302                                                                  
+LD2        LaserDiode     TopLayer    OPV302                1515.354      1594.488      0        OPV302                                                                  
+LD15       LaserDiode     TopLayer    OPV302                780.709       1850.394      0        OPV302                                                                  
+LD9        LaserDiode     TopLayer    OPV302                1148.032      1850.394      0        OPV302                                                                  
+LD21       LaserDiode     TopLayer    OPV302                413.386       1850.394      0        OPV302                                                                  
+LD3        LaserDiode     TopLayer    OPV302                1515.354      1850.394      0        OPV302                                                                  
+LD22       LaserDiode     TopLayer    OPV302                413.386       2106.299      0        OPV302                                                                  
+LD16       LaserDiode     TopLayer    OPV302                780.709       2106.299      0        OPV302                                                                  
+LD10       LaserDiode     TopLayer    OPV302                1148.032      2106.299      0        OPV302                                                                  
+LD4        LaserDiode     TopLayer    OPV302                1515.354      2106.299      0        OPV302                                                                  
+LD17       LaserDiode     TopLayer    OPV302                780.709       2362.205      0        OPV302                                                                  
+LD11       LaserDiode     TopLayer    OPV302                1148.032      2362.205      0        OPV302                                                                  
+LD23       LaserDiode     TopLayer    OPV302                413.386       2362.205      0        OPV302                                                                  
+LD5        LaserDiode     TopLayer    OPV302                1515.354      2362.205      0        OPV302                                                                  
+LD24       LaserDiode     TopLayer    OPV302                413.386       2618.110      0        OPV302                                                                  
+LD18       LaserDiode     TopLayer    OPV302                780.709       2618.110      0        OPV302                                                                  
+LD12       LaserDiode     TopLayer    OPV302                1148.032      2618.110      0        OPV302                                                                  
+LD6        LaserDiode     TopLayer    OPV302                1515.354      2618.110      0        OPV302                                                                  
+L1         SRP7050TA-220M BottomLayer PSM6050               310.000       656.490       90       "FIXED IND 22UH 2.5A 170 MOHM SMD"                                      
+H8         hole_space     TopLayer    HEX-M3_NoVia_Smaller  3110.236      3031.496      0        ""                                                                      
+H7         hole_space     TopLayer    HEX-M3_NoVia_Smaller  1792.756      3031.496      0        ""                                                                      
+H6         hole_space     TopLayer    HEX-M3_NoVia_Smaller  118.110       3031.496      0        ""                                                                      
+H5         hole_space     TopLayer    HEX-M3_NoVia_Smaller  3110.236      1751.968      0        ""                                                                      
+H4         hole_space     TopLayer    HEX-M3_NoVia_Smaller  118.110       1751.968      0        ""                                                                      
+H3         hole_space     TopLayer    HEX-M3_NoVia_Smaller  3110.236      118.110       0        ""                                                                      
+H2         hole_space     TopLayer    HEX-M3_NoVia_Smaller  1692.913      118.110       0        ""                                                                      
+H1         hole_space     TopLayer    HEX-M3_NoVia_Smaller  129.921       129.921       0        ""                                                                      
+FB1        BLM18PG121SN1D BottomLayer IND_C_1608X60         2805.000      2646.153      180      ""                                                                      
+D42        1N4148W-TP     BottomLayer SOD23                 2334.843      1442.126      0        1N4148W-TP                                                              
+D40        1N4148W-TP     BottomLayer SOD23                 2334.843      1875.197      0        1N4148W-TP                                                              
+D39        1N4148W-TP     BottomLayer SOD23                 2532.874      2103.543      180      1N4148W-TP                                                              
+D38        1N4148W-TP     BottomLayer SOD23                 2334.843      2308.268      0        1N4148W-TP                                                              
+D35        S2303          BottomLayer SOT23-3-132           2411.260      392.874       180      S2303                                                                   
+D34        S2303          BottomLayer SOT23-3-132           2272.165      392.874       180      S2303                                                                   
+D32        1N4148W-TP     BottomLayer SOD23                 1298.189      1338.583      270      1N4148W-TP                                                              
+D31        1N4148W-TP     BottomLayer SOD23                 563.543       1338.583      270      1N4148W-TP                                                              
+D29        1N4148W-TP     BottomLayer SOD23                 563.543       1594.488      270      1N4148W-TP                                                              
+D28        1N4148W-TP     BottomLayer SOD23                 930.866       1594.488      270      1N4148W-TP                                                              
+D27        1N4148W-TP     BottomLayer SOD23                 1298.189      1594.488      270      1N4148W-TP                                                              
+D26        1N4148W-TP     BottomLayer SOD23                 1665.512      1594.488      270      1N4148W-TP                                                              
+D25        1N4148W-TP     BottomLayer SOD23                 930.866       1850.394      270      1N4148W-TP                                                              
+D24        1N4148W-TP     BottomLayer SOD23                 1298.189      1850.394      270      1N4148W-TP                                                              
+D23        1N4148W-TP     BottomLayer SOD23                 563.543       1850.394      270      1N4148W-TP                                                              
+D22        1N4148W-TP     BottomLayer SOD23                 1665.512      1850.394      270      1N4148W-TP                                                              
+D21        1N4148W-TP     BottomLayer SOD23                 563.543       2106.299      270      1N4148W-TP                                                              
+D20        1N4148W-TP     BottomLayer SOD23                 930.866       2106.299      270      1N4148W-TP                                                              
+D19        1N4148W-TP     BottomLayer SOD23                 1298.189      2106.299      270      1N4148W-TP                                                              
+D18        1N4148W-TP     BottomLayer SOD23                 1665.512      2106.299      270      1N4148W-TP                                                              
+D17        1N4148W-TP     BottomLayer SOD23                 930.866       2362.205      270      1N4148W-TP                                                              
+D16        1N4148W-TP     BottomLayer SOD23                 1298.189      2362.205      270      1N4148W-TP                                                              
+D15        1N4148W-TP     BottomLayer SOD23                 563.543       2362.205      270      1N4148W-TP                                                              
+D14        1N4148W-TP     BottomLayer SOD23                 1665.512      2362.205      270      1N4148W-TP                                                              
+D12        1N4148W-TP     BottomLayer SOD23                 930.866       2618.110      270      1N4148W-TP                                                              
+D11        1N4148W-TP     BottomLayer SOD23                 1298.189      2618.110      270      1N4148W-TP                                                              
+D10        1N4148W-TP     BottomLayer SOD23                 1665.512      2618.110      270      1N4148W-TP                                                              
+D9         S2303          BottomLayer SOT23-3-132           2133.071      392.874       180      S2303                                                                   
+D8         S2303          BottomLayer SOT23-3-132           2819.748      1135.740      270      S2303                                                                   
+D7         S2303          BottomLayer SOT23-3-132           2819.748      1000.011      270      S2303                                                                   
+D6         S2303          BottomLayer SOT23-3-132           2819.748      864.283       270      S2303                                                                   
+D5         S2303          BottomLayer SOT23-3-132           2819.748      728.555       270      S2303                                                                   
+D4         S2303          BottomLayer SOT23-3-132           2819.748      592.827       270      S2303                                                                   
+D3         LED_RED        BottomLayer LED_0603              1049.134      172.835       0        ""                                                                      
+D2         LED_YELLOW     BottomLayer LED_0603              1294.646      172.835       0        ""                                                                      
+C55        0.22uF/25V     BottomLayer CAP_C_1608X80         1807.933      1568.347      180      CAP                                                                     
+C53        0.22uF/25V     BottomLayer CAP_C_1608X80         1807.933      2185.000      180      CAP                                                                     
+C51        0.22uF/25V     BottomLayer CAP_C_1608X80         2751.968      1472.441      90       CAP                                                                     
+C49        0.22uF/25V     BottomLayer CAP_C_1608X80         1807.933      2790.940      180      CAP                                                                     
+C43        0.22uF/25V     BottomLayer CAP_C_1608X80         1817.244      577.992       0        CAP                                                                     
+C33        0.22uF/25V     BottomLayer CAP_C_1608X80         1395.748      307.992       0        CAP                                                                     
+C26        0.22uF/25V     BottomLayer CAP_C_1608X80         2805.000      2713.059      180      CAP                                                                     
+C25        0.22uF/25V     BottomLayer CAP_C_1608X80         2805.000      2580.232      0        CAP                                                                     
+C22        220pF/50V      BottomLayer CAP_C_1608X80         1495.125      869.475       270      CAP                                                                     
+C21        47uF/20V       BottomLayer CAP_TANT_2312         745.748       834.055       0        TAJC476K020RNJ                                                          
+C19        47uF/20V       BottomLayer CAP_TANT_2312         771.654       228.346       0        TAJC476K020RNJ                                                          
+C18        47uF/20V       BottomLayer CAP_TANT_2312         380.748       252.559       180      TAJC476K020RNJ                                                          
+C17        47uF/20V       BottomLayer CAP_TANT_2312         777.126       1078.000      90       TAJC476K020RNJ                                                          
+C16        0.22uF/25V     BottomLayer CAP_C_1608X80         2805.000      2877.381      0        CAP                                                                     
+C10        0.22uF/25V     BottomLayer CAP_C_1608X80         1393.629      714.474       0        CAP                                                                     
+C9         470pF/50V      BottomLayer CAP_C_1608X80         1105.125      919.474       270      CAP                                                                     
+C5         0.22uF/25V     BottomLayer CAP_C_1608X80         688.777       354.547       180      CAP                                                                     
+C4         0.22uF/25V     BottomLayer CAP_C_1608X80         456.646       133.858       0        CAP                                                                     
+C3         47uF/20V       BottomLayer CAP_TANT_2312         600.000       1078.000      90       TAJC476K020RNJ                                                          
+C2         0.22uF/25V     BottomLayer CAP_C_1608X80         472.441       1094.488      270      CAP                                                                     
+C1         10nF/16V       BottomLayer CAP_C_1005X50_L       161.069       965.433       180      CAP                                                                     
