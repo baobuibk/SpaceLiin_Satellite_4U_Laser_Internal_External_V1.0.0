@@ -356,7 +356,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document19]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\CAMtastic1.Cam
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\CAMtastic5.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -373,7 +373,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document20]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\CAMtastic3.Cam
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\CAMtastic1.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -410,150 +410,162 @@ DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Pick Place for 
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100-RoundHoles.TXT
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100-BoardEdgeRout.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100-SlotHoles.TXT
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100-RoundHoles-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.DRR
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.EXTREP
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100-SlotHoles-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.G1
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.G2
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.GBL
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.GBO
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.G1
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.GBP
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.G2
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.GBS
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.GD1
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.GG1
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.GM
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.GPB
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.GPT
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.GTL
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.GM
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.GTO
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.GTP
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.GTS
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.LDP
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.REP
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.xls
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100_Drawing_1.gbr
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100_Drillmap_1.gbr
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.REP
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100_L1_TOP.gbr
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.xls
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100_L2_SIGNAL.gbr
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100_Drawing_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100_L3_GND.gbr
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100_Drillmap_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100_L4_BOT.gbr
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100_L1_TOP.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100_Legend_Bot.gbr
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100_L2_SIGNAL.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100_Legend_Top.gbr
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100_L3_GND.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100_Pads_Bot.gbr
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100_L4_BOT.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100_Pads_Top.gbr
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100_Paste_Bot.gbr
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument39]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100_Paste_Top.gbr
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100_Pads_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument40]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100_Profile.gbr
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100_Pads_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument41]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100_Soldermask_Bot.gbr
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100_Paste_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument42]
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument45]
 DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100_Soldermask_Top.gbr
 DItemRevisionGUID=
 
@@ -861,7 +873,7 @@ OutputDefault8=0
 Configuration8_Name1=ForceUpdateSettings
 Configuration8_Item1=False
 Configuration8_Name2=OutputConfigurationParameter1
-Configuration8_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|GenerateToolsByDrillSymbols=False|NumberOfDecimals=2|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressLeadingZeroes|DocumentPath=D:\payload_satellite\hw\SpaceLiin_Satellite_4U_Laser_Internal_External_V1.0.0\01_DESIGN\SpaceLiin_Satellite_4U_Laser_Internal_External_V1.0.0\Satellite_4U_Laser_Int_Ext_V100.PcbDoc
+Configuration8_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=True|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=True|GenerateSeparateViaTypeFiles=True|GenerateToolsByDrillSymbols=False|NumberOfDecimals=2|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Absolute|Record=DrillView|Units=Metric|ZeroesMode=SuppressLeadingZeroes|DocumentPath=D:\payload_satellite\hw\SpaceLiin_Satellite_4U_Laser_Internal_External_V1.0.0\01_DESIGN\SpaceLiin_Satellite_4U_Laser_Internal_External_V1.0.0\Satellite_4U_Laser_Int_Ext_V100.PcbDoc
 OutputType9=IPC2581
 OutputName9=IPC-2581 Files
 OutputDocumentPath9=
@@ -899,6 +911,24 @@ OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration1_Name1=ColumnNameFormat
+Configuration1_Item1=CaptionAsName
+Configuration1_Name2=ForceUpdateSettings
+Configuration1_Item2=False
+Configuration1_Name3=General
+Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=True|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|BomSetName=
+Configuration1_Name4=GroupOrder
+Configuration1_Item4=
+Configuration1_Name5=SortOrder
+Configuration1_Item5=Comment=Up
+Configuration1_Name6=VisibleOrder
+Configuration1_Item6=Line #=52|Comment=120|Description=120|Designator=120|Quantity=66|Library Name=137|Footprint=225|Manufacturer 1=99|Manufacturer Part Number 1=165
+Configuration1_Name7=VisibleOrder_Base
+Configuration1_Item7=Line #=52|Comment=120|Description=120|Designator=120|Quantity=66|Library Name=137|Footprint=225|Manufacturer 1=99|Manufacturer Part Number 1=165
+Configuration1_Name8=VisibleOrder_Consolidated
+Configuration1_Item8=Line #=100|Comment=100|Description=100|Designator=100|Quantity=100|Manufacturer 1=99|Manufacturer Part Number 1=166|Manufacturer Lifecycle 1=142|Supplier 1=72|Supplier Part Number 1=138|Supplier Unit Price 1=122|Supplier Subtotal 1=116
+Configuration1_Name9=VisibleOrder_Flat
+Configuration1_Item9=Line #=100|Comment=100|Description=100|Designator=100|Manufacturer 1=99|Manufacturer Part Number 1=166|Manufacturer Lifecycle 1=142|Supplier 1=72|Supplier Part Number 1=138|Supplier Unit Price 1=122|Supplier Subtotal 1=116
 OutputType2=BOM_ReportCompare
 OutputName2=BOM Compare
 OutputDocumentPath2=
