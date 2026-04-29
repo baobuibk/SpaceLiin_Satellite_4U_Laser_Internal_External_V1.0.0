@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: Satellite_4U_Laser_Int_Ext_V100.PcbDoc   29-Apr-26  4:09:10 PM
+NCDrill File Report For: Satellite_4U_Laser_Int_Ext_V100.PcbDoc   29-Apr-26  11:38:27 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : L1_TOP to L4_BOT
@@ -9,12 +9,12 @@ ASCII Plated SlotHoles File : Satellite_4U_Laser_Int_Ext_V100-SlotHoles-Plated.T
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
 T1      0.2mm (8mil)                                              Round             8         PTH        9.10mm (0.36inch)
-T2      0.3mm (12mil)                                             Round             603       PTH        1430.49mm (56.32inch)
+T2      0.3mm (12mil)                                             Round             602       PTH        1440.19mm (56.70inch)
 T3      0.5mm (20mil)                                             Round             16        PTH        64.56mm (2.54inch)
 T4      0.5mm (20mil)                                             Slot              72        PTH        702.93mm (27.67inch)
 T5      0.7mm (28mil)                                             Round             30        PTH        95.83mm (3.77inch)
 T6      3.2mm (126mil)                                            Round             8         PTH        258.50mm (10.18inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              737
+Totals                                                                              736
 
 Total Processing Time (hh:mm:ss) : 00:00:00
