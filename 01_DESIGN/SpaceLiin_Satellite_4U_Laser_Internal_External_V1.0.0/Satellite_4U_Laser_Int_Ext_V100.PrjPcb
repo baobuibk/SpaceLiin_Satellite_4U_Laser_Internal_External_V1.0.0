@@ -569,6 +569,22 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100_Soldermask_Top.gbr
 DItemRevisionGUID=
 
+[Parameter1]
+Name=ApprovedBy
+Value=Vu Pham
+
+[Parameter2]
+Name=CheckedBy
+Value=Bao Bui
+
+[Parameter3]
+Name=Author
+Value=Duy Nguyen
+
+[Parameter4]
+Name=Project
+Value=SATELLITE-4U-LASER-INT-EXT
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
